@@ -46,7 +46,10 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
 
-Insert screenshots showing ping success, configuration, or simulation results.
+<img width="1919" height="1199" alt="Screenshot 2025-08-09 134233" src="https://github.com/user-attachments/assets/782eb42e-4952-4b7c-af0f-864d23d619b0" />
+
+<img width="1919" height="1199" alt="Screenshot 2025-08-09 134231" src="https://github.com/user-attachments/assets/97f678e9-e8fa-4fcd-822d-295c6e595ed5" />
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
